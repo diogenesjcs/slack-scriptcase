@@ -1,0 +1,24 @@
+{
+  "name": "slack-scriptcase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogenesjcs/slack-scriptcase.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diogenesjcs/slack-scriptcase/issues"
+  },
+  "homepage": "https://github.com/diogenesjcs/slack-scriptcase#readme",
+  "dependencies": {
+    "@slack/client": "^3.8.1",
+    "shortid": "^2.2.6"
+  }
+}
